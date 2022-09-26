@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pacwnu4wxdj5w8v0?svg=true)](https://ci.appveyor.com/project/Vinarskaya/2-1-rest)
